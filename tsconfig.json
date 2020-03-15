@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "target": "ES5",
+    "jsx": "preserve",
+    "watch": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "files": ["./src/Mappr.js"],
+  "exclude": ["node_modules"]
+}
